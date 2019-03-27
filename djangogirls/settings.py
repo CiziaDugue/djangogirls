@@ -87,7 +87,7 @@ WSGI_APPLICATION = 'djangogirls.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'djangogirls',
+        'NAME': 'CiziaDugue$djangogirls',
         'USER': 'CiziaDugue',
         'PASSWORD': 'djangogirls',
         'HOST': 'CiziaDugue.mysql.pythonanywhere-services.com',
